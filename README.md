@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Dabbling with the Fediverse on Fostodon <a rel="me" href="https://fosstodon.org/@stuartm">Mastodon</a>
+<a rel="me" href="https://fosstodon.org/@stuartm">Dabbling with the Fediverse on Fosstodon.</a>
 <!--
 **stuartmaxwell/stuartmaxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

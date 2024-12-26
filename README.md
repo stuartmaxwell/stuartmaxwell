@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<a rel="me" href="https://fosstodon.org/@stuartm">Dabbling with the Fediverse on Fosstodon.</a>
+- Mastodon: <a rel="me" href="https://fosstodon.org/@stuartm">@stuartm@fosstodon.org</a>
+- Bluesky: <a rel="me" href="https://bsky.app/profile/stuartm.nz">@stuartm.nz</a>
+- Blog: <a rel="me" href="https://stuartm.nz">stuartm.nz</a>
+
 <!--
 **stuartmaxwell/stuartmaxwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
